@@ -33,6 +33,6 @@ Este proyecto forma parte del programa **ALURA LATAM - ORACLE NEXT ONE** y consi
 
 ## Créditos
 
-Desarrollado como parte del programa de formación **ALURA LATAM - ORACLE NEXT ONE** por Franklin Rony Cortez Barrera.
+Desarrollado como parte del programa de formación **ALURA LATAM - ORACLE NEXT ONE** por Rosa Lara.
 
 ---
